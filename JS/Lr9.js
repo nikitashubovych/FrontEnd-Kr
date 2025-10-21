@@ -20,19 +20,19 @@ Cards = {
     value: 10,
   },
   6: {
-    image: "Jack",
+    image: "jack",
     value: 2,
   },
   7: {
-    image: "Queen",
+    image: "queen",
     value: 3,
   },
   8: {
-    image: "King",
+    image: "king",
     value: 4,
   },
   9: {
-    image: "Ace",
+    image: "ace",
     value: 11,
   },
 };
@@ -133,3 +133,4 @@ function checkScore() {
     generateButton.disabled = true;
   }
 }
+
